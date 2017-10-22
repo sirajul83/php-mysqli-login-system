@@ -1,0 +1,105 @@
+body{
+	background-image: url(img/7.png);
+	background-size: cover;
+	background-repeat: no-repeat;
+	color: #e1e1e1;
+	font-family: sans-serif;
+	font-size: 22px;
+	margin:0px;
+	padding: 0px;
+}
+header{
+	height: 70px;
+	background-color: #40512d;
+}
+.left-header{
+	width: 70%;
+	height: 70px;
+	float:left;
+}
+.left-header h3{
+	margin-left: 100px;
+	margin-top: -1px;
+	font-family:cursive; ;
+}
+.right-header{
+	width: 30%;
+	height: 70px;
+	float:left;
+}
+.right-header ul li{
+	float: left;
+}
+.right-header  li{
+	list-style: none;
+}
+.right-header  li a{
+	width:100px;
+	height: 40px;
+	color: #fff;
+	text-align: center;
+	text-decoration: none;
+	display: block;
+	font-size: 20px;
+	font-family: serif;
+	line-height: 35px;
+	text-decoration: none;
+	margin-top: -05px;
+}
+.log_sign{
+	background-color: #bdc4b3;
+}
+.log_in{
+	background-color: #1AB188;
+}
+.content form{
+	width:700px;
+	margin: 0 auto;
+	margin-top: 50px; 
+}
+.input_sign{
+	width: 450px;
+	height: 30px;
+	margin-top: 10px;
+	padding: 6px 5px 6px 20px;
+	border: none;
+	background-color: #193445;
+	color: #fff;
+	font-size: 16px;
+}
+.input_sign_select{
+	width: 476px;
+	height: 40px;
+	margin-top: 10px;
+	padding: 6px 5px 6px 20px;
+	border: none;
+	background-color: #193445;
+	color: #fff;
+	font-size: 16px;
+}
+.input_sign_radio{
+	width: 50px;
+	height: 20px;
+	background-color: #193445;
+	color: #fff;
+	font-size: 16px;
+}
+.input_sign_submit{
+	width: 235px;
+	height: 45px;
+	border: none;
+	background-color: #1AB188;
+	color: #fff;
+	font-size: 22px;
+	margin-top: 10px;
+}
+.input_sign_reset{
+	width: 235px;
+	height: 45px;
+	border: none;
+	margin-top: 10px;
+	background-color: #c43e3e;
+	font-size: 22px;
+	color: #fff;
+
+}
